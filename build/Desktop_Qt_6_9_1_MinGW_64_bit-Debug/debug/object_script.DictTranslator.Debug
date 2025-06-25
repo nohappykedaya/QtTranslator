@@ -1,0 +1,13 @@
+debug/apimanager.o
+debug/dictmanager.o
+debug/favoritesmanage.o
+debug/historymanager.o
+debug/main.o
+debug/mainwindow.o
+debug/ttsmanager.o
+debug/qrc_resources.o
+debug/moc_apimanager.o
+debug/moc_favoritesmanage.o
+debug/moc_historymanager.o
+debug/moc_mainwindow.o
+debug/moc_ttsmanager.o

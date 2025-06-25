@@ -1,0 +1,13 @@
+release/apimanager.o
+release/dictmanager.o
+release/favoritesmanage.o
+release/historymanager.o
+release/main.o
+release/mainwindow.o
+release/ttsmanager.o
+release/qrc_resources.o
+release/moc_apimanager.o
+release/moc_favoritesmanage.o
+release/moc_historymanager.o
+release/moc_mainwindow.o
+release/moc_ttsmanager.o
